@@ -1,0 +1,32 @@
+{
+  "name": "condition-stub",
+  "version": "0.1.0",
+  "description": "condition-stub",
+  "license": "MIT",
+  "repository": "chentsulin/condition-stub",
+  "author": {
+    "name": "C. T. Lin",
+    "email": "chentsulin@gmail.com",
+    "url": "https://github.com/chentsulin"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "iojs": ">= 1.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "bugs": {
+    "url": "https://github.com/chentsulin/condition-stub/issues"
+  },
+  "homepage": "https://github.com/chentsulin/condition-stub",
+  "keywords": [
+
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
